@@ -1,0 +1,22 @@
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/bin/Debug/net8.0/Domain.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/obj/Debug/net8.0/Domain.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Domain/obj/Debug/net8.0/ref/Domain.dll
+D:\PEST API\Library\src\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\PEST API\Library\src\Domain\bin\Debug\net8.0\Domain.dll
+D:\PEST API\Library\src\Domain\bin\Debug\net8.0\Domain.pdb
+D:\PEST API\Library\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEST API\Library\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\PEST API\Library\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\PEST API\Library\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\PEST API\Library\src\Domain\obj\Debug\net8.0\Domain.dll
+D:\PEST API\Library\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\PEST API\Library\src\Domain\obj\Debug\net8.0\Domain.pdb
+D:\PEST API\Library\src\Domain\obj\Debug\net8.0\ref\Domain.dll

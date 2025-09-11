@@ -1,0 +1,79 @@
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/appsettings.Development.json
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/appsettings.json
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Api
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Api.deps.json
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Api.runtimeconfig.json
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Api.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Api.pdb
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Application.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Domain.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Application.pdb
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/bin/Debug/net8.0/Domain.pdb
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.csproj.AssemblyReference.cache
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.AssemblyInfoInputs.cache
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.AssemblyInfo.cs
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.csproj.CoreCompileInputs.cache
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/staticwebassets/msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/staticwebassets/msbuild.build.Api.props
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Api.props
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Api.props
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/scopedcss/bundle/Api.styles.css
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.csproj.CopyComplete
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/refint/Api.dll
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.pdb
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/Api.genruntimeconfig.cache
+/Users/bohdankrasiuk/Documents/oa/dotnet_course/repo/WebApplicationComplete/src/Api/obj/Debug/net8.0/ref/Api.dll
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\appsettings.json
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Api.exe
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Api.deps.json
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Api.dll
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Api.pdb
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Application.dll
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Domain.dll
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Application.pdb
+D:\PEST API\Library\src\Api\bin\Debug\net8.0\Domain.pdb
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.dll
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\refint\Api.dll
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.pdb
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+D:\PEST API\Library\src\Api\obj\Debug\net8.0\ref\Api.dll
