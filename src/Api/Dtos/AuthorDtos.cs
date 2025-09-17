@@ -7,3 +7,5 @@ public record AuthorDto(Guid Id, string? Name, DateTime CreatedAt, DateTime? Upd
 }
 
 public record CreateAuthorDto(string Name);
+
+public record UpdateAuthorDto(Guid Id, string Name);

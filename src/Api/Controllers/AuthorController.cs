@@ -1,29 +1,47 @@
-﻿using Api.Dtos;
+﻿using Application.Authors.Commands;
 using Application.Common.Interfaces;
+using Domain.Library;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api.Controllers;
 
 [Route("authors")]
 [ApiController]
-public class AuthorController(IAuthorService authorService) : ControllerBase
+public class AuthorsController : ControllerBase
 {
+    private readonly ISender _sender;
+
+    public AuthorsController(ISender sender)
+    {
+        _sender = sender;
+    }
 
     [HttpGet]
-    public ActionResult<IReadOnlyList<AuthorDto>> GetAuthors(CancellationToken cancellationToken)
+    public ActionResult<IReadOnlyList<Author>> GetAuthors([FromServices] IAuthorService authorService)
     {
         var authors = authorService.GetAuthors();
-
-        return authors.Select(AuthorDto.FromDomainModel).ToList();
+        return Ok(authors);
     }
 
     [HttpPost]
-    public ActionResult<AuthorDto> CreateAuthor(
-        [FromBody] CreateAuthorDto request,
-        CancellationToken cancellationToken)
+    public async Task<ActionResult<Author>> CreateAuthor([FromBody] CreateAuthorCommand command)
     {
-        var newAuthor = authorService.CreateAuthor(Guid.NewGuid(), request.Name);
+        var author = await _sender.Send(command);
+        return Ok(author);
+    }
 
-        return AuthorDto.FromDomainModel(newAuthor);
+    [HttpPut("{id}")]
+    public async Task<ActionResult<Author>> UpdateAuthor(Guid id, [FromBody] string name)
+    {
+        var author = await _sender.Send(new UpdateAuthorCommand(id, name));
+        return Ok(author);
+    }
+
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteAuthor(Guid id)
+    {
+        await _sender.Send(new DeleteAuthorCommand(id));
+        return NoContent();
     }
 }

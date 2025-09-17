@@ -7,3 +7,4 @@ public record BookDto(Guid Id, string Title, string Description, Guid AuthorId, 
 }
 
 public record CreateBookDto(string Title, string Description, Guid AuthorId);
+public record UpdateBookDto(Guid Id, string Title, string Description);

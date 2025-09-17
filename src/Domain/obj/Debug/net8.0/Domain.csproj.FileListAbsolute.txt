@@ -20,3 +20,4 @@ D:\PEST API\Library\src\Domain\obj\Debug\net8.0\Domain.dll
 D:\PEST API\Library\src\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\PEST API\Library\src\Domain\obj\Debug\net8.0\Domain.pdb
 D:\PEST API\Library\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\PEST API\Library\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json

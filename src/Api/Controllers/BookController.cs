@@ -1,30 +1,47 @@
-﻿using Api.Dtos;
+﻿using Application.Books.Commands;
 using Application.Common.Interfaces;
+using Domain.Library;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
-
 
 namespace Api.Controllers;
 
 [Route("books")]
 [ApiController]
-public class BookController(IBookService bookService) : ControllerBase
+public class BooksController : ControllerBase
 {
+    private readonly ISender _sender;
+
+    public BooksController(ISender sender)
+    {
+        _sender = sender;
+    }
 
     [HttpGet]
-    public ActionResult<IReadOnlyList<BookDto>> GetBooks(CancellationToken cancellationToken)
+    public ActionResult<IReadOnlyList<Book>> GetBooks([FromServices] IBookService bookService)
     {
         var books = bookService.GetBooks();
-
-        return books.Select(BookDto.FromDomainModel).ToList();
+        return Ok(books);
     }
 
     [HttpPost]
-    public ActionResult<BookDto> CreateBook(
-        [FromBody] CreateBookDto request,
-        CancellationToken cancellationToken)
+    public async Task<ActionResult<Book>> CreateBook([FromBody] CreateBookCommand command)
     {
-        var newBook = bookService.CreateBook(Guid.NewGuid(), request.Title, request.Description, request.AuthorId);
+        var book = await _sender.Send(command);
+        return Ok(book);
+    }
 
-        return BookDto.FromDomainModel(newBook);
+    [HttpPut("{id}")]
+    public async Task<ActionResult<Book>> UpdateBook(Guid id, [FromBody] UpdateBookCommand command)
+    {
+        var book = await _sender.Send(command with { Id = id });
+        return Ok(book);
+    }
+
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteBook(Guid id)
+    {
+        await _sender.Send(new DeleteBookCommand(id));
+        return NoContent();
     }
 }
